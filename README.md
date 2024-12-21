@@ -1,5 +1,7 @@
 ## hi i'm and
 
+I release [music](https://andrewcs.bandcamp.com/) as andrew cs
+
 I run a visual design & web development studio called [ampersands](https://ampersands.space/)
 
 I also made some scripts for [norns](https://monome.org/docs/norns/)
