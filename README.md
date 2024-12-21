@@ -11,7 +11,7 @@ I also made some scripts for [norns](https://monome.org/docs/norns/)
 - [ndls](https://github.com/andr-ew/ndls): a modeless tape looper, delay, & sampler for the monome [grid](https://monome.org/docs/grid/)
 - [rpls](https://github.com/andr-ew/rpls): a varispeed multitap echo
 - [eels](https://github.com/andr-ew/eels): dual delay / comb filter
-- [eggs](https://github.com/andr-ew/eggs): a multi-track gesture sequencer for the monome grid
+- [eggs](https://github.com/andr-ew/eggs): a gesture based sequencer for the grid
 - [grvl](https://github.com/andr-ew/grvl): dual data pavement
 - [eggsrpls](https://github.com/andr-ew/eggsrpls): eggs & rpls combined
 
